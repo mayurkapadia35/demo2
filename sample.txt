@@ -1,1 +1,2 @@
-this is a sample text by master
+this is a sample text by master..
+sample.txt file is a changed by master from remote.
